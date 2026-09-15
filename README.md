@@ -1,15 +1,8 @@
-Hey, I'am Jefferson
 
-## 🚀 About Me
-Focused on web solution development, with an interest in Frontend, Backend, and Full Stack development.
+## 🚀 Hey, I'am Jefferson
+ 
 
-I am interested in transforming ideas and business needs into functional digital solutions by combining programming, interface design, databases, and business logic.
-
-I have a process-oriented perspective focused on analysis, problem-solving, and continuous improvement, which allows me to understand technology not only from a coding perspective, but also through the impact it can have on operations and businesses.
-
-🚀 Currently focused on strengthening my web development skills, building practical projects, and gaining experience in the technology sector.
-
-
+Full Stack Developer ° Construyo sistemas digitales °Frontend & Backend ° JavaScript ° Node.js ° APIs ° SQL ° Bases de datos | Git & GitHub ° Desarrollo de sistemas ° Soluciones digitales | Automatización y optimización de procesos
 
 ## 🔗 Links
 
